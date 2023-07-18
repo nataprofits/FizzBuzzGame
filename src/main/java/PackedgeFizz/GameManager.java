@@ -1,3 +1,8 @@
+package PackedgeFizz;
+
+import PackedgeFizz.FizzBuzzGame;
+import PackedgeFizz.Game;
+
 public class GameManager {
     private Game game;
     private UserInput userInput;

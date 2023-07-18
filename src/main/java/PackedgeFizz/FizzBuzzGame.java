@@ -1,4 +1,6 @@
-public class FizzBuzzGame implements Game{
+package PackedgeFizz;
+
+public class FizzBuzzGame implements Game {
     private int upperLimit;
     public FizzBuzzGame(int upperLimit) {
         this.upperLimit = upperLimit;

@@ -1,3 +1,5 @@
+package PackedgeFizz;
+
 import java.util.Scanner;
 
 public class User implements UserInput {
